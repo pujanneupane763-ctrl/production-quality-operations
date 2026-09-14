@@ -1,3 +1,3 @@
 # Conflict Practice
 
-This line will be changed on main.
+This line is version B.
